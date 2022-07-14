@@ -1,0 +1,10 @@
+.side-bar{
+    float: left;
+    height: auto;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+.side-bar ul li{
+    text-decoration: none;
+}
